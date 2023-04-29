@@ -1,0 +1,14 @@
+name: Docker
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  deploy:
+    name: Test Commit Workflow Changes
+    runs-on: ubuntu-latest
+    steps:
+      - name: Commit Workflow Changes
+        uses: d3code/github-action-commit-workflow-changes@v0.0.0-alpha
+  
