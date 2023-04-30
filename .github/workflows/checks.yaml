@@ -9,6 +9,8 @@ jobs:
     name: Test Commit Workflow Changes
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
       - name: Commit Workflow Changes
         uses: d3code/github-action-commit-workflow-changes@ac2bfa324100c1d2134d4636f1c5abeca92ac5bb
   
