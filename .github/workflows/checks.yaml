@@ -1,12 +1,12 @@
 name: Docker
 
 on:
-  push:
-    branches: [ master ]
+  schedule:
+    - cron: '1 * * * *'
 
 jobs:
   deploy:
-    name: Test Commit Workflow Changes
+    name: Update Reddit
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
