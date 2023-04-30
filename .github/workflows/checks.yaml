@@ -12,4 +12,4 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Commit Workflow Changes
-        uses: d3code/github-action-commit-workflow-changes@41a469e902a98f44ed5a734ba022fa0942f4063e
+        uses: d3code/github-action-commit-workflow-changes@eea45ab132bc4662545d45ce5bd9ca89982be068
