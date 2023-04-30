@@ -16,5 +16,3 @@ jobs:
         with:
           commit_author: "Luke Sands"
           commit_email: "luke.sands@d3code.com.au"
-
-          
