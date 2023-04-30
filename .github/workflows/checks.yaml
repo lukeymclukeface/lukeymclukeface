@@ -1,8 +1,10 @@
 name: Docker
 
 on:
+  push:
+    branches: [ master ]
   schedule:
-    - cron: '43 * * * *'
+    - cron: '0 6 * * *'
 
 jobs:
   deploy:
@@ -10,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Commit Workflow Changes
+      - name: Update Reddit
         uses: d3code/github-action-commit-workflow-changes@master
         with:
           commit_author: "Luke Sands"
