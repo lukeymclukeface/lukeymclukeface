@@ -10,5 +10,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Commit Workflow Changes
-        uses: d3code/github-action-commit-workflow-changes@master
+        uses: d3code/github-action-commit-workflow-changes@ac2bfa324100c1d2134d4636f1c5abeca92ac5bb
   
