@@ -1,4 +1,4 @@
 # Luke Sands
 
-![Reddit](https://i.redd.it/kemvqp0olwwa1.jpg)
+![Reddit](https://i.redd.it/whrzktf6cywa1.jpg)
 
