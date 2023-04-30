@@ -1,9 +1,3 @@
 # Luke Sands
 
-Hi there
-
-Updated
-
-Updated
-
-Updated
+![Reddit](https://i.redd.it/rqtixb08hvwa1.jpg)
