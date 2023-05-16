@@ -1,3 +1,3 @@
 # Luke Sands
 
-![Reddit](https://i.redd.it/l5j22hwp2uza1.png)
+![Reddit](https://i.redd.it/lwgbtajgn20b1.jpg)
