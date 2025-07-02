@@ -125,12 +125,7 @@ func currentFocus() []string {
 
 </div>
 
-<div align="center">
-
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lukeymclukeface&theme=radical&hide_border=true" />
-
-</div>
+<!-- GitHub Streak Stats temporarily disabled due to service issues -->
 
 <div align="center">
 
