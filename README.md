@@ -34,7 +34,7 @@
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/go-icon.svg" alt="Go" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=go" alt="Go" width="65" height="65" />
 <br>Go
 </td>
 <td align="center" width="96">
@@ -128,7 +128,7 @@ func currentFocus() []string {
 <div align="center">
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lukeymclukeface&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lukeymclukeface&theme=radical&hide_border=true" />
 
 </div>
 
